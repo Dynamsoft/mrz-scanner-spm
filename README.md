@@ -10,7 +10,7 @@ Dynamsoft MRZ Scanner SDK iOS Edition is designed to scan the MRZ code from a pa
 
 ### Get Started with Sample
 
-- [Scan MRZ Sample](https://github.com/Dynamsoft/mrz-scanner-mobile/ios/samples/ScanMRZ)
+- [Scan MRZ Sample](https://github.com/Dynamsoft/mrz-scanner-mobile/tree/main/ios/samples/ScanMRZ)
 
 ## Licensing
 
