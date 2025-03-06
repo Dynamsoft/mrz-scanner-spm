@@ -35,7 +35,7 @@ let package = Package(
         .binaryTarget(name: "DynamsoftNeuralNetwork", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-neuralnetwork-ios-1.0.20-xcframework.zip", checksum: "ed75b78ae636f07b6eb0f77ba670bb1342f4e03918582ca4b4fc219bcd26fa97"),
         .binaryTarget(name: "DynamsoftLabelRecognizer", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-labelrecognizer-ios-3.4.30-xcframework.zip", checksum: "13b95adee53ab02ce18c0d1b9221408442ba33a898fce760054215160d1c6b5b"),
         .binaryTarget(name: "DynamsoftMRZ", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-mrz-ios-3.4.20-xcframework.zip", checksum: "2c9b2fc46dbfd5b31b38cb1c7d91090dcea3e7d96917175f0ec25cdeb15a8303"),
-        .binaryTarget(name: "DynamsoftMRZScannerBundle", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-mrzscanner-bundle-ios-2.0.0-xcframework.zip", checksum: "2d353f7cbca28c1a283558c3b95ced18a115d1fabc132e48fd00d414a832d070"),
+        .binaryTarget(name: "DynamsoftMRZScannerBundle", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-mrzscanner-bundle-ios-2.0.1-xcframework.zip", checksum: "ec2b2af8648aeec8bedb3a8893f3eb49117044494774704ada689d9e93389dcf"),
         
     ]
 )
