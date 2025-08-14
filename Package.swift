@@ -14,8 +14,8 @@ let package = Package(
     dependencies: [
     ],
     targets: [       
-        .binaryTarget(name: "DynamsoftCaptureVisionBundle", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-capturevision-bundle-ios-3.0.5100-xcframework.zip", checksum: "8f68a31a12666b0090b26e86edf83d346a76b74e8dd4733bb8f09bc79ae75340"),
-        .binaryTarget(name: "DynamsoftMRZScannerBundle", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-mrzscanner-bundle-ios-3.0.5100-xcframework.zip", checksum: "fb3da6027692bea49e429086c989e7ac6f6dadcc91cf0d5580dfbc13e6455214"),
+        .binaryTarget(name: "DynamsoftCaptureVisionBundle", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-capturevision-bundle-ios-3.0.5200-xcframework.zip", checksum: "2981cb60d790524314b5dd6e8e59d995e86d7bb490be6d329a7972cedbc0efd0"),
+        .binaryTarget(name: "DynamsoftMRZScannerBundle", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-mrzscanner-bundle-ios-3.0.5200-xcframework.zip", checksum: "dad91e72f71d856a56a6407078fc29c6a12f1e87d17d548a9dbf7da677888878"),
         
     ]
 )
