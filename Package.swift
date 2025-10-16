@@ -23,7 +23,7 @@ let package = Package(
             dependencies: [
                 "DynamsoftMRZScannerBundle",
                 .product(name: "DynamsoftCaptureVisionBundle", package: "capture-vision-spm")
-            ],
+            ]
         )
     ]
 )
